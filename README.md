@@ -5,11 +5,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Installation
 > - `git clone `
 >
-> - `cd /`    
+> - `cd simple-chat-app`    
+>
+> - `cd client`
 >
 > - `npm install` to install all dependencies  
 >
-> - `npm start` to start your react web server   
+> - `npm start` to start your web server   
+>
+> - `cd ../server`
+>
+> - `npm install` to install all dependencies  
+>
+> - `npm start` to start your server   
 
 ### Tech Stack 
 > - create-react-app
